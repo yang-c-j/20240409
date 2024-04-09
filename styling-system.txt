@@ -1,0 +1,50 @@
+ 
+
+[styling system]
+
+01 Typography--
+
+	font-size (px): 
+	10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+  normal(16 - 32): 20px
+  long(>20): 
+  headlines(>50): 62px
+
+ 	font-weight: 
+	normal: 400
+	medium: 500
+	semi-bold: 600
+	bold: 700 
+
+	line-height: 
+  default: 1
+	normal(1.5 - 2): 1.5
+	heading(<1.5): 1.2
+
+	letter-spacing:
+  heading: -0.5px
+
+02 Colors--
+
+	primary:
+  #facf0f 
+	tints: 
+	shades:
+	accents:
+    
+	greys: 
+	#222
+	#e6e6e6
+	#b4b4b4
+
+05. Shadows--
+
+06. Border-radius--
+	small: 3px
+	medium: 
+
+07. Whitespace--
+
+	spacing (px):
+	2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
